@@ -1,5 +1,3 @@
-Certainly! Here's an example CONTRIBUTING.md file for your project:
-
 # Contributing to Chat App
 
 We welcome contributions to the Chat App project! By contributing, you can help improve the application and make it even better. Whether you want to report a bug, suggest a new feature, or submit a code enhancement, we appreciate your contributions.
