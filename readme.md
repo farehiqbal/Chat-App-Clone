@@ -56,7 +56,8 @@ Contributions are welcome! Please refer to the [Contribution Guidelines](CONTRIB
 
 ## Authors
 
-- [**Fareh Iqbal**]
+- Fareh Iqbal
+
 ## Acknowledgments
 
 Special thanks to the contributors and open source projects that provided inspiration and resources for this project.
