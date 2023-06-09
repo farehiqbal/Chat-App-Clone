@@ -1,0 +1,17 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "FX SDK/lib/javafx.base.jar",
+        "FX SDK/lib/javafx.controls.jar",
+        "FX SDK/lib/javafx.fxml.jar",
+        "FX SDK/lib/javafx.graphics.jar",
+        "FX SDK/lib/javafx.media.jar",
+        "FX SDK/lib/javafx.swing.jar",
+        "FX SDK/lib/javafx.web.jar",
+        "FX SDK/lib/javafx-swt.jar",
+        "MongoDriver/mongo-java-driver-3.12.13.jar"
+    ],
+    "java.project.sourcePaths": [
+        ""
+    ]
+}

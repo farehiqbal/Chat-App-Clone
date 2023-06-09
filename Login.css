@@ -1,0 +1,52 @@
+.root {
+    -fx-background-color: #2e3032;
+}
+
+.grid-pane {
+    -fx-background-color: #333333;
+    -fx-padding: 10px;
+}
+
+.label {
+    -fx-text-fill: white;
+}
+
+.text-field {
+    -fx-background-color: #626b6d;
+    -fx-text-fill: white;
+    -fx-padding: 5px;
+}
+
+.password-field {
+    -fx-background-color: #474a51;
+    -fx-text-fill: white;
+    -fx-padding: 5px;
+}
+
+.button {
+    -fx-background-color: #6f7382;
+    -fx-text-fill: white;
+    -fx-padding: 5px 10px;
+}
+
+.button:hover {
+    -fx-background-color: #d9dfe3;
+}
+
+.alert {
+    -fx-background-color: #1e1e1e;
+    -fx-text-fill: white;
+}
+
+.alert .dialog-pane {
+    -fx-background-color: #1E1E1E;
+}
+
+.header {
+    -fx-background-color: #000000;
+    -fx-background-radius: 0;
+}
+
+.title-label {
+    -fx-text-fill: white;
+}

@@ -1,0 +1,82 @@
+.list-cell {
+    -fx-control-inner-background: #2C2F33;
+    -fx-text-fill: white;
+}
+
+.button {
+    /* -fx-background-color: #797f84; */
+    /* -fx-text-fill: white; */
+}
+
+.text-area, .text-field {
+    -fx-control-inner-background: #2C2F33;
+    -fx-text-fill: white;
+}
+
+.side-panel-separator {
+    -fx-background-color: #2C2F33;
+    -fx-min-height: 1px;
+    -fx-max-height: 1px;
+    -fx-padding: 5 0;
+}
+
+.vbox {
+    -fx-background-color: #303436;
+}
+
+
+.image-view {
+    -fx-control-inner-background: #000000;
+}
+
+.toggle-button {
+    -fx-background-color: #303438;
+    -fx-text-fill: white;
+}
+
+.root {
+    -fx-background-color: #292929;
+}
+
+.dialog-button {
+    -fx-background-color: #7289DA;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+.label {
+    -fx-text-fill: white;
+}
+
+.text-field {
+    -fx-background-color: #333;
+    -fx-text-fill: white;
+}
+
+.text-field:focused {
+    -fx-background-color: #555;
+}
+
+.text-field:disabled {
+    -fx-opacity: 0.7;
+}
+
+.grid-pane {
+    -fx-background-color: #292929;
+}
+.alert {
+    -fx-background-color: #292929;
+}
+
+.alert .dialog-pane {
+    -fx-background-color: #292929;
+}
+
+.alert .header-panel {
+    -fx-background-color: #292929;
+    -fx-text-fill: white;
+}
+
+.alert .content {
+    -fx-text-fill: rgb(255, 255, 255);
+}

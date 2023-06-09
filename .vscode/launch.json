@@ -1,0 +1,68 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "T",
+            "request": "launch",
+            "mainClass": "T",
+            "projectName": "src_9e91ecf8"
+        },
+        {
+            "type": "java",
+            "name": "LoginPanel",
+            "request": "launch",
+            "mainClass": "LoginPanel",
+            "projectName": "src_9e91ecf8"
+        },
+        {
+            "type": "java",
+            "name": "MessageList",
+            "request": "launch",
+            "mainClass": "Collections.MessageList",
+            "projectName": "src_9e91ecf8"
+        },
+        {
+            "type": "java",
+            "name": "UserContacts",
+            "request": "launch",
+            "mainClass": "Collections.UserContacts",
+            "projectName": "src_9e91ecf8"
+        },
+        {
+            "type": "java",
+            "name": "UserContacts",
+            "request": "launch",
+            "mainClass": "UserContacts",
+            "projectName": "src_9e91ecf8"
+        },
+        {
+            "type": "java",
+            "name": "ChatApp",
+            "request": "launch",
+            "mainClass": "ChatApp",
+            "projectName": "src_9e91ecf8"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "JavaFX Application",
+            "request": "launch",
+            "mainClass": "Home",
+            "vmArgs": "--module-path \"E:\\Onedrive\\OneDrive - Higher Education Commission\\Semester 4\\DB\\Chat-App-Clone\\src\\FX SDK\\lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+
+    
+
+
+    
+}

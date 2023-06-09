@@ -1,0 +1,39 @@
+
+
+.root {
+    -fx-background-color: #505356;
+    -fx-font-family: Arial, sans-serif;
+}
+
+.grid-pane {
+    -fx-alignment: center;
+    -fx-padding: 20;
+}
+
+.checkbox {
+    -fx-text-fill: #ffffff;
+    -fx-font-size: 14px;
+}
+
+.button {
+    -fx-background-color: #7289DA;
+    -fx-text-fill: #ffffff;
+    -fx-font-size: 14px;
+    -fx-padding: 8px 16px;
+    -fx-cursor: hand;
+}
+
+.button:hover {
+    -fx-background-color: #677bc4;
+}
+
+.label {
+    -fx-text-fill: #ffffff;     
+    -fx-font-size: 16px;
+}
+
+.check-box .label {
+    -fx-text-fill: white;
+}
+
+

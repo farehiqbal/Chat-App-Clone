@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "64808f4d03e8c2481b6bb681"
+  },
+  "user_id": 1,
+  "name": "John Doe",
+  "profile_picture": "https://robohash.org/John%20Doe.png",
+  "bio": "Hello, I'm John!",
+  "preferred_language": "English",
+  "created_at": "2023-05-18"
+},{
+  "_id": {
+    "$oid": "648092f703e8c2481b6bb684"
+  },
+  "user_id": 2,
+  "name": "Jane Smith",
+  "profile_picture": "https://robohash.org/janesmith.png",
+  "bio": "Hi, I'm Jane!",
+  "preferred_language": "English",
+  "created_at": "2023-05-19"
+},{
+  "_id": {
+    "$oid": "6480c16603e8c2481b6bb6c2"
+  },
+  "user_id": 3,
+  "name": "Emma Watson",
+  "profile_picture": "https://robohash.org/user3",
+  "bio": "Actress",
+  "preferred_language": "English",
+  "created_at": "2023-05-18"
+},{
+  "_id": {
+    "$oid": "6480c17103e8c2481b6bb6c4"
+  },
+  "user_id": 4,
+  "name": "Chris Hemsworth",
+  "profile_picture": "https://robohash.org/user4",
+  "bio": "Actor",
+  "preferred_language": "English",
+  "created_at": "2023-05-18"
+},{
+  "_id": {
+    "$oid": "6480c1e003e8c2481b6bb6c6"
+  },
+  "user_id": 5,
+  "name": "Daniel Brown",
+  "profile_picture": "https://robohash.org/user5",
+  "bio": "Accountant",
+  "preferred_language": "English",
+  "created_at": "2023-05-18"
+},{
+  "_id": {
+    "$oid": "6480c1e903e8c2481b6bb6c8"
+  },
+  "user_id": 6,
+  "name": "Sophia Davis",
+  "profile_picture": "https://robohash.org/user6",
+  "bio": "Marketing Manager",
+  "preferred_language": "English",
+  "created_at": "2023-05-18"
+},{
+  "_id": {
+    "$oid": "6480c1f303e8c2481b6bb6ca"
+  },
+  "user_id": 7,
+  "name": "Matthew Wilson",
+  "profile_picture": "https://robohash.org/user7",
+  "bio": "Teacher",
+  "preferred_language": "English",
+  "created_at": "2023-05-18"
+},{
+  "_id": {
+    "$oid": "6480c1fb03e8c2481b6bb6cc"
+  },
+  "user_id": 8,
+  "name": "Olivia Thompson",
+  "profile_picture": "https://robohash.org/user8",
+  "bio": "Writer",
+  "preferred_language": "English",
+  "created_at": "2023-05-18"
+},{
+  "_id": {
+    "$oid": "6480c20703e8c2481b6bb6ce"
+  },
+  "user_id": 9,
+  "name": "William Clark",
+  "profile_picture": "https://robohash.org/user9",
+  "bio": "Architect",
+  "preferred_language": "English",
+  "created_at": "2023-05-18"
+},{
+  "_id": {
+    "$oid": "6480c21203e8c2481b6bb6d0"
+  },
+  "user_id": 10,
+  "name": "Ava Baker",
+  "profile_picture": "https://robohash.org/user10",
+  "bio": "Photographer",
+  "preferred_language": "English",
+  "created_at": "2023-05-18"
+}]

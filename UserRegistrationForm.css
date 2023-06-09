@@ -1,0 +1,33 @@
+.root {
+    -fx-background-color: #222;
+}
+
+.grid-pane {
+    -fx-hgap: 10;
+    -fx-vgap: 8;
+}
+
+.label {
+    -fx-text-fill: white;
+}
+
+.text-field {
+    -fx-background-color: #333;
+    -fx-text-fill: white;
+}
+
+.text-area {
+    -fx-background-color: #333;
+    -fx-text-fill: rgb(0, 0, 0);
+}
+
+.choice-box .menu-item{
+    -fx-background-color: #333;
+    
+    -fx-text-fill: rgb(76, 79, 83);
+}
+
+.button {
+    -fx-background-color: #7289DA;
+    -fx-text-fill: white;
+}
