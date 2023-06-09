@@ -8,7 +8,7 @@ Chat App is a JavaFX application that allows users to communicate through indivi
 
 The EERD for the database(not final, might contain errors) is as follows:
 
-![EERD](EERD.png)
+![EERD](ERD.png)
 
 ## Features
 
