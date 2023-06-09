@@ -6,6 +6,9 @@ Chat App is a JavaFX application that allows users to communicate through indivi
 ![Example Image](screenshot.png)
 
 
+The EERD for the database(not final, might contain errors) is as follows:
+
+![ERD] (ERD.png)
 ## Features
 
 - **Contacts**: Users can view and select their contacts from a list to initiate individual chats.
