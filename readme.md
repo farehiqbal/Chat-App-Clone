@@ -3,6 +3,9 @@
 
 Chat App is a JavaFX application that allows users to communicate through individual chats and group chats. It provides a user-friendly interface for sending and receiving messages in real-time.(not real-time yet).
 
+![Example Image](screenshot.png)
+
+
 ## Features
 
 - **Contacts**: Users can view and select their contacts from a list to initiate individual chats.
