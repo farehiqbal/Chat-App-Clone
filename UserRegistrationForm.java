@@ -1,3 +1,4 @@
+
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
@@ -6,6 +7,7 @@ import org.bson.conversions.Bson;
 import com.mongodb.MongoClient;
 import com.mongodb.client.MongoCollection;
 import com.mongodb.client.MongoDatabase;
+
 
 import Collections.Login;
 import Collections.User;
@@ -17,6 +19,7 @@ import javafx.scene.layout.GridPane;
 import javafx.scene.layout.VBox;
 import javafx.scene.paint.Color;
 import javafx.stage.Stage;
+
 
 public class UserRegistrationForm extends Application {
 
@@ -127,7 +130,7 @@ public class UserRegistrationForm extends Application {
         vbox.setStyle("-fx-background-color: #222; -fx-padding: 20;");
 
         Scene scene = new Scene(vbox, 700, 350);
-        scene.getStylesheets().add(getClass().getResource("UserRegistrationForm.css").toExternalForm());
+        scene.getStylesheets().add(getClass().getResource("css\\UserRegistrationForm.css").toExternalForm());
         primaryStage.setScene(scene);
         primaryStage.show();
     }

@@ -1,3 +1,4 @@
+
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.Comparator;
@@ -501,7 +502,7 @@ public class ChatApp extends Application {
         
 
         Scene scene = new Scene(root, 800, 600);
-        scene.getStylesheets().add("darktheme.css"); // Load external CSS file for dark theme
+        scene.getStylesheets().add("css\\darktheme.css"); // Load external CSS file for dark theme
 
         primaryStage.setScene(scene);
         primaryStage.show();

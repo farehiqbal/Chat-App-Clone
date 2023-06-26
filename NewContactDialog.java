@@ -1,3 +1,4 @@
+
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
@@ -113,12 +114,12 @@ public class NewContactDialog {
         
         // Set the alignment of the grid pane
         gridPane.setAlignment(Pos.CENTER);
-        gridPane.getStylesheets().add(NewContactDialog.class.getResource("darktheme.css").toExternalForm());
+        gridPane.getStylesheets().add(NewContactDialog.class.getResource("css\\darktheme.css").toExternalForm());
         // Create a scene with the grid pane and set it to the dialog stage
         Scene scene = new Scene(gridPane);
         dialogStage.setScene(scene);
         
-        scene.getStylesheets().add(NewContactDialog.class.getResource("darktheme.css").toExternalForm());
+        scene.getStylesheets().add(NewContactDialog.class.getResource("css\\darktheme.css").toExternalForm());
         // Show the dialog
         dialogStage.showAndWait();
     }

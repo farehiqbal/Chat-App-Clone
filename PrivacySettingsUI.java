@@ -1,3 +1,4 @@
+
 import javafx.application.Application;
 import javafx.geometry.Insets;
 import javafx.scene.Scene;
@@ -89,7 +90,7 @@ public class PrivacySettingsUI extends Application {
         gridPane.getChildren().addAll(dpVisibilityCheckBox, activeVisibilityCheckBox, lastSeenVisibilityCheckBox, updateButton);
 
         Scene scene = new Scene(gridPane);
-        scene.getStylesheets().add(getClass().getResource("PrivacySettings.css").toExternalForm());
+        scene.getStylesheets().add(getClass().getResource("css\\PrivacySettings.css").toExternalForm());
         // lets set the window size
         primaryStage.setWidth(350);
         primaryStage.setHeight(200);

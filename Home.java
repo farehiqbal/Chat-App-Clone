@@ -1,4 +1,6 @@
 
+
+
 import org.bson.Document;
 
 import com.mongodb.MongoClient;
@@ -87,7 +89,7 @@ public class Home extends Application {
         gridPane.getChildren().addAll(usernameLabel, usernameInput, passwordLabel, passwordInput, loginButton, registerButton);
 
         Scene scene = new Scene(gridPane, 300, 150);
-        scene.getStylesheets().add(getClass().getResource("Login.css").toExternalForm());
+        scene.getStylesheets().add(getClass().getResource("css\\Login.css").toExternalForm());
         primaryStage.setScene(scene);
         primaryStage.show();
     }
@@ -139,13 +141,6 @@ public class Home extends Application {
 
     }
 
-    private void showAlert(Alert.AlertType alertType, String title, String message) {
-        Alert alert = new Alert(alertType);
-        alert.setTitle(title);
-        alert.setHeaderText(null);
-        alert.setContentText(message);
-        alert.showAndWait();
-    }
 
     public static void main(String[] args) {
         launch(args);
